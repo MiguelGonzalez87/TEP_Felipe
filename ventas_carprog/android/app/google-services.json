@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858291496471",
+    "firebase_url": "https://productos-varios-ecd4d-default-rtdb.firebaseio.com",
+    "project_id": "productos-varios-ecd4d",
+    "storage_bucket": "productos-varios-ecd4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858291496471:android:5a4ea6d5c0dc6c9e509e52",
+        "android_client_info": {
+          "package_name": "com.carprognet.ventas_carprog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858291496471-unarlvfem2k1eva7a20nkfesji1n4bo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY5PLp3BJQDWH5y5mkorbMN7rMB9RYnL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858291496471-unarlvfem2k1eva7a20nkfesji1n4bo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
